@@ -14,7 +14,7 @@
 - [How to find Subject, Verb, Object from spaCy and NLTK](https://suttipong-kull.medium.com/how-to-find-subject-verb-object-from-spacy-and-nltk-dd5ede37823a)
 - [NLP Series (Introduction NLP with spaCy in Software Engineering Part 1)](https://suttipong-kull.medium.com/introduction-nlp-in-software-engineering-88ff3cd5ca86)
 
-[![Amar's github stats](https://github-readme-stats.vercel.app/api?username=kullawattana&count_private=true&theme=cobalt&show_icons=true)](https://github.com/kullawattana)
+[![Suttipong's github stats](https://github-readme-stats.vercel.app/api?username=kullawattana&count_private=true&theme=cobalt&show_icons=true)](https://github.com/kullawattana)
 </br>
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kullawattana&layout=compact&theme=cobalt)](https://github.com/kullawattana/)
